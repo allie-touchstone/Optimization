@@ -1,5 +1,5 @@
 # Optimization
-Optimization (RM 294) UT MSBA
+Optimization (RM 294) UT MSBA Fall 2021
 
 Homeworks and Projects from Optimization 1
 
