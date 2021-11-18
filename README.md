@@ -9,6 +9,6 @@ Assignments (In order of due dates):
 * Project 1: 
 * Homework 3: Correct
 * Project 2:
-* Homework 4:
+* Homework 4: Correct
 * Project 3:
 * Homework 5:
